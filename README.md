@@ -98,29 +98,5 @@ Response: MySQL syntax error...
 --------------------------------------------------
 ```
 
----
-
-## Contributing
-
-Contributions are welcome! Feel free to submit issues, pull requests, or suggestions.
-
-1. **Fork the repository** to your GitHub account.
-2. **Clone** the repository to your local machine:
-   ```bash
-   git clone https://github.com/technicalattri/SQLiScanner
-   ```
-3. Create a new branch for your feature or bugfix:
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-4. **Commit** your changes and push to your fork:
-   ```bash
-   git commit -m "Add feature/bugfix"
-   git push origin feature/your-feature
-   ```
-5. **Submit a pull request** to the main repository.
-
----
-
 
 
